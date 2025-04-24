@@ -1,0 +1,8 @@
+{
+    "id": 1, 
+    "CPU": "Intel Core i5-12600K: A powerful 10-core processor suitable for gaming and multitasking, featuring a base clock speed of 3.7 GHz and a turbo boost up to 4.9 GHz.",
+    "RAM": "Corsair Vengeance LPX 16GB (2 x 8GB) DDR4-3200: Ideal for gaming and multitasking, this RAM kit has a speed of 3200 MHz and low-profile heat spreaders for better cooling.",
+    "Storage": "Seagate Barracuda 2TB HDD: A reliable hard disk drive with ample storage capacity suited for bulk data storage such as games, videos, and files, with a rotational speed of 7200 RPM.",
+    "GPU": "AMD Radeon RX 6700 XT: A strong competitor in the mid-range graphics market, provides great performance for 1440p gaming and supports AMD's Smart Access Memory technology."
+
+}
